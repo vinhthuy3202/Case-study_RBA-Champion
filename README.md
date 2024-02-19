@@ -6,7 +6,9 @@ for re-commerce platform - ChoTot
 
 The dataset had 3 main sheets: Source, Region and Category.
 
-For more details, please read the file "Case study.pdf"
+For more details, please read the file "Case study.pdf" and "Dataset.xlsx"
+
+Our submission is in "PITCHING DESK.pdf"
 
 Through this challenge, I learned many things: Improve the ability in analyzing data, creating slide illustrations, 
 data story-telling, and critical thinking.
